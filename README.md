@@ -1,3 +1,6 @@
+I used interactive charts in my project in order to see it properly please use this link:
+
+
 # Model Fitness - Machine Learning Project
 Customer retention strategy based on analytical data
 
